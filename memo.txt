@@ -16,7 +16,23 @@ azure 포탈 에 등록
  > git push origin master
 
 
+azure notification
+ https://github.com/kyeongwan/NotificationhubToChromeApp
 
+firebase  : 구글 클라우드 서비스
+
+server key
+AAAAYfyGtC0:APA91bEoLmPUHSNF-xgtVZEJifMiaHE4zvzaE6mdfGBce1qa2F0ZdBXhns8RTX3c2VHVYyvi0mEC1uqxiF1a0ZPLgaeo0iyI45PxVF_2sTfNgpJmfSByRPwiSb-fiWj6MwF6g-Gw0-G
+
+Legacy server key help_outline
+AIzaSyDb7G_--nhtlfVvWwc7L6nyR7aRuEw13mk 
+
+
+Listen Signature
+Endpoint=sb://nodeazurechatnamespace.servicebus.windows.net/;SharedAccessKeyName=DefaultListenSharedAccessSignature;SharedAccessKey=AS0G2rvJUhB2w174eHHGRXkMKasLq66X+Z0Q5wUfCbs=
+
+Full Signature
+Endpoint=sb://nodeazurechatnamespace.servicebus.windows.net/;SharedAccessKeyName=DefaultFullSharedAccessSignature;SharedAccessKey=tHRyBxEvd6IydZzy5yyE37S8kvUlMft4FuG/OwfA9Tc=
 
 -------------------------------------------------------------------------------------
 ** ch01/
