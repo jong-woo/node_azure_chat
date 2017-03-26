@@ -1,0 +1,11 @@
+github
+ https://github.com/Shin-Dohyeoun/msp_node_session1
+
+gitbook
+ https://www.gitbook.com/@barding9968
+
+-------------------------------------------------------------------------------------
+** ch01/
+ 1. node 시작 : # npm init
+ 2. package.json 에서 dependencies 추가 / * 은 최신 버전을 받겠다는것임
+ 3. # npm install
