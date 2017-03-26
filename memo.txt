@@ -4,6 +4,9 @@ github
 gitbook
  https://www.gitbook.com/@barding9968
 
+azure 포탈 
+ https://portal.azure.com/
+
 -------------------------------------------------------------------------------------
 ** ch01/
  1. node 시작 : # npm init
