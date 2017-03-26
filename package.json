@@ -1,11 +1,10 @@
 {
   "name": "nodejs",
   "version": "1.0.0",
-  "description": "",
   "dependencies": {
-    "express" : "*",
+    "express": "*",
     "ejs": "*",
-    "socket.io" : "*"
+    "socket.io": "*"
   },
   "main": "server.js",
   "scripts": {
@@ -13,5 +12,15 @@
     "start": "node server.js"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jong-woo/node_azure_chat.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jong-woo/node_azure_chat/issues"
+  },
+  "homepage": "https://github.com/jong-woo/node_azure_chat#readme",
+  "description": ""
 }

@@ -4,8 +4,19 @@ github
 gitbook
  https://www.gitbook.com/@barding9968
 
-azure 포탈 
+azure 포탈 에 등록
  https://portal.azure.com/
+
+등록후
+ git shell 에서 (경로 이동 후)
+
+ > npm install azure    ## 만약 실패할때는 npm init 
+ > git add .
+ > git commit -m "sec"
+ > git push origin master
+
+
+
 
 -------------------------------------------------------------------------------------
 ** ch01/
