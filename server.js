@@ -52,7 +52,7 @@ io.sockets.on('connection',function(socket){   // on 함수는 이벤트 들어�
             notificationHubService.gcm.send(null, {data:{id:socket.id, message:data.msg}}, function(error){
                 if(!error){
                     //notification sent
-                        console.log('send');
+                    console.log('send error : ', error);
                 }
             });
         }
